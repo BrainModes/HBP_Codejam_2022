@@ -1,0 +1,5 @@
+mrtrix3_input:
+   location: https://openneuro.org/crn/datasets/ds002087/snapshots/1.0.0/files/sub-01:dwi:sub-01_run-1_dwi.nii.gz
+   basename: sub01.nii.gz
+   class: File
+mrtrix3_output: sub01.mif
